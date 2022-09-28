@@ -35,4 +35,4 @@ bias) both on the crawled data and in mean-field settings (i.e., complete graph)
 the simulation results varying both model parameters and initial conditions;
 
 Part 3: Open Question
-1. Define a research question on your data and use SNA tools to address it! 
+1. Analysis of the most relevant user sentiments and topics in the most populated communities identified with the Louvain and K-clique algorithms using Sentiment Analysis and Topic Modeling techniques
